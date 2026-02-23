@@ -38,9 +38,8 @@ This template repository provides a complete starting point for open-sourcing pr
 
 ## Next Steps
 
-- [Quick Start Guide](getting-started/quickstart.md) - Get up and running quickly
-- [Open Source Checklist](checklist/open-source-checklist.md) - Complete all requirements
-- [Contributing Guidelines](guidelines/contributing.md) - Learn how to contribute
+- [Open Source Checklist](open-source-checklist.md) - Complete all requirements
+- [Repository Naming Guidelines](repository-naming.md) - Learn about naming conventions
 
 ## Support
 
