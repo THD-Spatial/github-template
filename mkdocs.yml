@@ -61,7 +61,8 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
-  - Checklist: opensource_checklist.md
+  - Checklist: open-source-checklist.md
+  - Repository Naming: repository-naming.md
 
 # Plugins
 plugins:
