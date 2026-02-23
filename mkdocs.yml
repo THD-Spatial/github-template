@@ -3,7 +3,7 @@ site_name: THD-Spatial GitHub Template
 site_author: THD-Spatial Group
 site_description: >-
   Template repository for open source projects in the THD-Spatial organization
-site_url: https://github-template.readthedocs.io
+site_url: https://THD-Spatial.github.io/GitHub-Template
 
 # Repository
 repo_name: THD-Spatial/GitHub-Template
