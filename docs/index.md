@@ -17,7 +17,7 @@ This template repository provides a complete starting point for open-sourcing pr
 
 1. **Use this template**: Click "Use this template" button on GitHub
 2. **Customize files**: Update all template files for your specific project
-3. **Complete checklist**: Use [opensource-checklist.md](https://github.com/THD-Spatial/GitHub-Template/blob/main/OPEN_SOURCE_CHECKLIST.md) to track progress
+3. **Complete checklist**: Use [Open Source Checklist](getting-started/open-source-checklist.md) to track progress
 4. **Make it public**: Once all requirements are met, publish your repository
 
 ## Key Requirements
@@ -38,9 +38,9 @@ This template repository provides a complete starting point for open-sourcing pr
 
 ## Next Steps
 
-- [Open Source Checklist](open-source-checklist.md) - Complete all requirements
-- [Repository Naming Guidelines](repository-naming.md) - Learn about naming conventions
+- [Open Source Checklist](getting-started/open-source-checklist.md) - Complete all requirements
+- [Repository Naming Guidelines](getting-started/repository-naming.md) - Learn about naming conventions
 
 ## Support
 
-For questions or issues with this template, please [open an issue](https://github.com/THD-Spatial/GitHub-Template/issues) or contact the THD-Spatial group administrators.
+For questions or issues with this template, please [open an issue](https://github.com/thd-spatial/github-template/issues) or contact the THD-Spatial group administrators.
