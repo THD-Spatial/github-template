@@ -8,7 +8,7 @@ This template repository provides a complete starting point for open-sourcing pr
 
 ## What's Included
 
-- **Essential Documentation Templates**: LICENSE, README, CONTRIBUTING, CODE_OF_CONDUCT
+- **Essential Documentation Templates**: LICENSE, README, CONTRIBUTING
 - **Open Source Checklist**: Step-by-step verification of requirements
 - **Git LFS Configuration**: For managing large data files
 - **Best Practices**: Guidelines for creating high-quality open source projects
@@ -17,7 +17,7 @@ This template repository provides a complete starting point for open-sourcing pr
 
 1. **Use this template**: Click "Use this template" button on GitHub
 2. **Customize files**: Update all template files for your specific project
-3. **Complete checklist**: Use [OPEN_SOURCE_CHECKLIST.md](https://github.com/THD-Spatial/GitHub-Template/blob/main/OPEN_SOURCE_CHECKLIST.md) to track progress
+3. **Complete checklist**: Use [opensource-checklist.md](https://github.com/THD-Spatial/GitHub-Template/blob/main/OPEN_SOURCE_CHECKLIST.md) to track progress
 4. **Make it public**: Once all requirements are met, publish your repository
 
 ## Key Requirements
@@ -27,14 +27,14 @@ This template repository provides a complete starting point for open-sourcing pr
 
 ### Essential Files
 
-- ✅ **LICENSE** - Required for all public repositories
-- ✅ **README.md** - Project overview and documentation
-- ✅ **CONTRIBUTING.md** - Guidelines for contributors
-- ✅ **CODE_OF_CONDUCT.md** - Community standards
+- **LICENSE** - Required for all public repositories
+- **README.md** - Project overview and documentation
+- **CONTRIBUTING.md** - Guidelines for contributors
+- **CODE_OF_CONDUCT.md** - Community standards
 
 ### Data Management
 
-- ✅ **Git LFS** - Required for repositories with large data files
+- **Git LFS** - Required for repositories with large data files
 
 ## Next Steps
 
