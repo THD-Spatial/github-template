@@ -1,6 +1,7 @@
 
 # THD-Spatial Repository Template
-[![Deploy MkDocs to GitHub Pages](https://github.com/THD-Spatial/GitHub-Template/actions/workflows/docs.yml/badge.svg)](https://thd-spatial.github.io/github-template)
+
+[![MkDocs](https://github.com/THD-Spatial/github-template/actions/workflows/docs.yml/badge.svg)](https://thd-spatial.github.io/github-template)
 
 This repository is a template for projects under the `THD-Spatial` GitHub group. It provides a basic structure, documentation, and guidance to help you prepare repositories for internal collaboration and open-source release.
 
