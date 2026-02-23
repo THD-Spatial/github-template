@@ -124,16 +124,32 @@ Then open:
 
 - `http://localhost:8000/`
 
-## Optional: Host docs on Read the Docs
+### Hosting documentation with GitHub Pages
 
-To host the MkDocs site on Read the Docs:
+This repository deploys documentation to **GitHub Pages** using a GitHub Actions workflow:
 
-1. Create a Read the Docs account.
-2. Connect the GitHub repository.
-3. Configure the project to build the docs (MkDocs).
-4. Add a `readthedocs.yml` file to the repository root if needed.
+- Workflow: `.github/workflows/docs.yml`
 
-Refer to the Read the Docs documentation for the latest MkDocs setup instructions.
+The workflow builds the MkDocs site and publishes it automatically when changes are pushed to the configured branch (for example, `main`).
+
+#### Typical deployment flow
+
+1. Update documentation files in `docs/` (and/or `mkdocs.yml`)
+2. Commit and push changes to the default branch
+3. GitHub Actions runs the docs workflow
+4. The site is deployed to GitHub Pages automatically
+
+#### Notes
+
+- Make sure **GitHub Pages** is enabled in repository settings
+- The Pages source should be set to **GitHub Actions**
+- If using a project repository site, the published URL is typically:
+
+```bash
+https://<org-name>.github.io/<repo-name>/
+```
+
+(e.g., documentation for this repo can be accessed at <https://thd-spatial.github.io/github-template/>)
 
 ---
 
