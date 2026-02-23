@@ -89,7 +89,7 @@ Then commit `.gitattributes` and your files as usual.
 >
 > **Settings → Archives → Include Git LFS objects in archives**
 
-![GitHub release archives setting](docs/assets/archives_setting_screenshot.png)
+![GitHub release archives setting](docs/assets/getting-started/archives_setting_screenshot.png)
 
 ## Optional but useful files
 
